@@ -1,0 +1,36 @@
+{
+    "name": "Revan",
+    "role": "Computer Science Student",
+    "bio": "Mahasiswa CS yang suka explore dunia programming, AI, dan UI/UX.",
+    "interests": [
+        "Artificial Intelligence",
+        "Web Development",
+        "Podcasts",
+        "R&B and Pop Music",
+        "Libraries"
+    ],
+    "skills": {
+        "programming": [
+            "Python",
+            "C++",
+            "JavaScript"
+        ],
+        "tools": [
+            "Figma",
+            "Git",
+            "VS Code"
+        ]
+    },
+    "projects": [
+        {
+            "name": "Tutoring Platform Prototype",
+            "description": "Platform untuk membantu siswa belajar dengan tutor online.",
+            "status": "On-going"
+        }
+    ],
+    "social": {
+        "github": "https://github.com/username",
+        "linkedin": "https://linkedin.com/in/username",
+        "instagram": "https://instagram.com/username"
+    }
+}
